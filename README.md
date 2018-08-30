@@ -41,4 +41,4 @@ MedJSON seeks to propose value types which are agnostic between different progra
 | Boolean       | bool          | boolean         | bool       | bool    |
 | Date          | java.util.Date | Date           | DateTime   | time.Time |
 
-__Note: The only differientation between ID and String above is that string should always be human readable, while ID is not required to be human readable(though that doesn't preclude it from being such)
+**Note: The only differientation between ID and String above is that string should always be human readable, while ID is not required to be human readable(though that doesn't preclude it from being such)**
